@@ -1,7 +1,29 @@
 <h1 align="center"><strong>background-remover-python3</strong></h1>
 <p><h2 align="center">In this repository The "bg-remove.py" file receives an image as input and process it to remove it's Background</h2></p>
 
+<details close> 
+  <summary><h2>Demo 1 (click)</h2></summary>
+  <table>
+    <tr>
+    <th>
+    <img alt="Demo-image-1" src="https://user-images.githubusercontent.com/77431114/215275187-4ef372f8-4fe6-4035-adc2-c606f2409584.png"/></th>
+    </tr>
+  </table>
+</details>
 
+<details open> 
+  <summary><h2>Demo 2 (click)</h2></summary>
+  <table>
+    <tr>
+      <th>Running the "bg-remove.py" file receives an image whose path is defined in variable "input_path"
+      which removes background and saves it in "output.png" as shown below</th>
+    </tr>
+    <tr>
+    <th>
+    <img alt="Demo-image-1" src="https://user-images.githubusercontent.com/77431114/215275192-77287d58-1b59-4737-b1df-9c1e0fd5be0d.png"/></th>
+    </tr>
+  </table>
+</details>
 
 Requirements
 ============
