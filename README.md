@@ -40,7 +40,7 @@ Requirements
 <ul>
     <li>As This Project uses a pretrained ML model File This is needed to run the "bg-remove.py" </li>
     <li>You can Get that File <a href="https://mega.nz/file/wV5zECYb#C19BLp57nJ8b_7LVZDajWLDRf5HSml63n0skiK2bNuQ">HERE</a></li>
-    <li>After Downloading it, just Put it in the same directory as "bg-remove.py"</a></li>
+    <li>After Downloading it, just Put it in the same directory as "bg-remove.py"</li>
 </ul>
   </table>
 </details>
@@ -51,6 +51,7 @@ Setup
 * Download the [ Project files ](https://github.com/PuL5TaR/background-remover-py/archive/refs/heads/main.zip)
 * Extract the downloaded zip file
 * go to the extracted directory
+* Put the "u2net.onnx" File in that directory
 
 <br>
 
