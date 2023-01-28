@@ -34,6 +34,18 @@ Requirements
 * [ opencv ](https://pypi.org/project/opencv-python/)Library
 * [ onnxruntime ](https://pypi.org/project/onnxruntime/)Library
 * [ numpy ](https://pypi.org/project/numpy/)Library
+* <details open> 
+  <summary><span><a href="https://mega.nz/file/wV5zECYb#C19BLp57nJ8b_7LVZDajWLDRf5HSml63n0skiK2bNuQ">u2net.onnx</a> pretrained model</span></summary>
+  <table>
+<ul>
+    <li>As This Project uses a pretrained ML model File This is needed to run the "bg-remove.py" </li>
+    <li>You can Get that File <a href="https://mega.nz/file/wV5zECYb#C19BLp57nJ8b_7LVZDajWLDRf5HSml63n0skiK2bNuQ">HERE</a></li>
+    <li>After Downloading it, just Put it in the same directory as "bg-remove.py"</a></li>
+</ul>
+  </table>
+</details>
+
+
 
 <br>
 
