@@ -44,9 +44,6 @@ Requirements
 </ul>
   </table>
 </details>
-
-
-
 <br>
 
 Setup
