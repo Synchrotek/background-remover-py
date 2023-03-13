@@ -4,7 +4,7 @@ from PIL import Image
 from PIL.Image import Image as PILImage
 from typing import List, Union
 from enum import Enum
-from utils import new_session
+from util import new_session
 
 start_time = time.time()
 kernel = getStructuringElement(MORPH_ELLIPSE, (3, 3))
