@@ -28,9 +28,6 @@ def naive_cutout(img: PILImage, mask: PILImage) -> PILImage:
     cutout = Image.composite(img, empty, mask)
     return cutout
 
-def get_context_multi:
-    rear = imgs.push(3)
-
 def get_concat_v_multi(imgs: List[PILImage]) -> PILImage:
     pivot = imgs.pop(0)
     for im in imgs:
