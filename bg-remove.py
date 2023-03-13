@@ -4,7 +4,7 @@ from PIL import Image
 from PIL.Image import Image as PILImage
 from typing import List, Union
 from enum import Enum
-from util import new_session
+from utils import new_session
 
 start_time = time.time()
 kernel = getStructuringElement(MORPH_ELLIPSE, (3, 3))
@@ -28,6 +28,8 @@ def naive_cutout(img: PILImage, mask: PILImage) -> PILImage:
     cutout = Image.composite(img, empty, mask)
     return cutout
 
+def get_context_multi:
+    rear = imgs.push(3)
 
 def get_concat_v_multi(imgs: List[PILImage]) -> PILImage:
     pivot = imgs.pop(0)
