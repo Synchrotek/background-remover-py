@@ -71,6 +71,5 @@ def new_session(model_name: str = "u2net"):
         ort.InferenceSession(
             str(full_path),
             sess_options=sess_opts,
-            # providers=ort.get_available_providers(),
         ),
     )
