@@ -1,7 +1,7 @@
 import os, numpy as np
 from typing import Dict, List, Tuple
 import onnxruntime as ort
-from PIL import Image as Img
+from PIL import Image
 from PIL.Image import Image as PILImage
 
 class SimpleSession():
