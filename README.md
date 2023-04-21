@@ -12,7 +12,7 @@
 </details>
 
 <details open> 
-  <summary><h2>Demo 2 01 (click)</h2></summary>
+  <summary><h2>Demo 2 (click)</h2></summary>
   <table>
     <tr>
       <th>Running the "bg-remove.py" file receives an image whose path is defined in variable "input_path"
