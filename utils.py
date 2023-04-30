@@ -18,6 +18,7 @@ class SimpleSession():
     ) -> Dict[str, np.ndarray]:
         im = img.convert("RGB").resize(size, Image.LANCZOS)
 
+        
         im_ary = np.array(im)
         im_ary = im_ary / np.max(im_ary)
 
