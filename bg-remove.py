@@ -7,7 +7,7 @@ from enum import Enum
 from utils import new_session
 
 start_time = time.time()
-kernel = getStructuringElement(MORPH_ELLIPSE, (3, 3))
+kernel = getStructuringElement(MORPH_ELLIPSE, (3, 3, 1))
 
 def main():
     # input_path = 'anya02.webp'
