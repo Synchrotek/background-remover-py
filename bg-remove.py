@@ -63,7 +63,7 @@ def remove(data: Union[bytes, PILImage, np.ndarray]
     cutouts = []
 
     for mask in masks:
-        cutout = naive_cutout(img, mask, rev2)
+        cutout = naive_cutout(img, mask)
         cutouts.append(cutout)
 
     cutout = img
