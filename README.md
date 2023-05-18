@@ -1,5 +1,5 @@
 <h1 align="center"><strong>background-remover-python3</strong></h1>
-<p><h2 align="center">In this repository The "bg-remove.py" file receives an image as input and process it to remove it's Background from it</h2></p>
+<p><h2 align="center">In this repository The "bg-remove.py" file receives an image as input and process it to remove it's Background from ITt</h2></p>
 
 <details close> 
   <summary><h2>Demo 1 (click)</h2></summary>
