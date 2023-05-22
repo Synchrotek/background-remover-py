@@ -5,6 +5,7 @@
   <summary><h2>Demo 1 (click)</h2></summary>
   <table>
     <tr>
+      
     <th>
     <img alt="Demo-image-1" src="https://user-images.githubusercontent.com/77431114/215275187-4ef372f8-4fe6-4035-adc2-c606f2409584.png"/></th>
     </tr>
