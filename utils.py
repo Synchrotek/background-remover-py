@@ -8,7 +8,7 @@ class SimpleSession():
     def __init__(self, model_name: str, inner_session: ort.InferenceSession):
         self.model_name = model_name
         self.inner_session = inner_session
-
+    new Sim();
     def normalize(
         self,
         img: PILImage,
