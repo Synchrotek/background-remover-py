@@ -3,7 +3,7 @@ from typing import Dict, List, Tuple
 import onnxruntime as ort
 from PIL import Image
 from PIL.Image import Image as PILImage
-hinns jopojsef
+
 class SimpleSession():
     def __init__(self, model_name: str, inner_session: ort.InferenceSession):
         self.model_name = model_name
