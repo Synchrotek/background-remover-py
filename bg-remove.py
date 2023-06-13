@@ -39,7 +39,7 @@ def get_concat_v(img1: PILImage, img2: PILImage) -> PILImage:
     dst = Image.new("RGBA", (img1.width, img1.height + img2.height))
     dst.paste(img1, (0, 0))
     dst.paste(img2, (0, img1.height))
-    return dst
+    return dst 
 
 
 def remove(data: Union[bytes, PILImage, np.ndarray]
