@@ -78,7 +78,7 @@ def remove(data: Union[bytes, PILImage, np.ndarray]
         return cutout
 
     if ReturnType.NDARRAY == return_type:
-        return np.asarray(cutout)
+        return np.asarray(cutout) 
 
     bio = io.BytesIO()
     cutout.save(bio, "PNG")
