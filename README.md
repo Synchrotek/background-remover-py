@@ -2,7 +2,7 @@
 <p><h2 align="center">In this repository The "bg-remove.py" file receives an image as input and process it to remove it's Background</h2></p>
 
 <details close> 
-  <summary><h2>Demo 1 (click)</h2></summary>
+  <summary><h2>Demo 1 (click)</h2></summary> 
   <table>
     <tr>
     <th>
