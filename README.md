@@ -47,7 +47,7 @@ Requirements
 
 Setup
 ============
-* Download the [ Project files ](https://github.com/PuL5TaR/background-remover-py/archive/refs/heads/main.zip)
+* Download the [ Project files ](https://github.com/Synchrotek/background-remover-py/archive/refs/heads/main.zip)
 * Extract the downloaded zip file
 * go to the extracted directory
 * Put the "u2net.onnx" File in that directory
