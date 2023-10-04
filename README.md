@@ -9,7 +9,7 @@
     <img alt="Demo-image-1" src="https://user-images.githubusercontent.com/77431114/215275187-4ef372f8-4fe6-4035-adc2-c606f2409584.png"/></th>
     </tr>
   </table>
-</details> 
+</details>
 
 <details open> 
   <summary><h2>Demo 2 (click)</h2></summary>
